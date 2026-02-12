@@ -14,7 +14,7 @@ I've been analysing data for over 20 years; fortunately, there's still loads lef
 </p>
 
 ### Profile
-<a href="[https://www.github.com/mark-slavin](https://sites.google.com/view/mark-slavin/home)" target="_blank" rel="noreferrer">
+<a href="[https://sites.google.com/view/mark-slavin/home](https://sites.google.com/view/mark-slavin/home)" target="_blank" rel="noreferrer">
 
 ### Socials
 
