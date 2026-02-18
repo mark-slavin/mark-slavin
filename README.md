@@ -8,6 +8,7 @@ I've been analysing data for over 20 years; fortunately, there's still loads lef
 
 * 🌍  I'm based in Newcastle upon Tyne
 * ✉️  You can contact me at [mark.slavin@gmail.com](mailto:mark.slavin@gmail.com)
+* ✉️  My Profile page is here [https://sites.google.com/view/mark-slavin/home](https://sites.google.com/view/mark-slavin/home)]
 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
